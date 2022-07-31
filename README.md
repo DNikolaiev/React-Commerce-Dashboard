@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/de65d8f2-048f-4d8b-8be3-b37c760f9b1c/deploy-status)](https://app.netlify.com/sites/react-commerce-dashboard-nikolaiev/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9717ceeb-712f-4e02-aee3-e0df28ebbc73/deploy-status)](https://app.netlify.com/sites/react-commerce-dashboard-nikolaiev/deploys)
 
 # Getting Started with Create React App
 
